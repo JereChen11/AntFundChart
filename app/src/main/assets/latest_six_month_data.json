@@ -1,0 +1,860 @@
+{
+  "data": [
+    {
+      "date": "2022-09-30",
+      "yield": "0.00",
+      "indexYield": "0.00",
+      "fundTypeYield": "0.00",
+      "benchQuote": "0.00"
+    },
+    {
+      "date": "2022-10-10",
+      "yield": "-3.16",
+      "indexYield": "-2.21",
+      "fundTypeYield": "-2.35",
+      "benchQuote": "-1.58"
+    },
+    {
+      "date": "2022-10-11",
+      "yield": "-4.18",
+      "indexYield": "-2.03",
+      "fundTypeYield": "-2.13",
+      "benchQuote": "-2.25"
+    },
+    {
+      "date": "2022-10-12",
+      "yield": "-3.91",
+      "indexYield": "-0.54",
+      "fundTypeYield": "-0.28",
+      "benchQuote": "-1.77"
+    },
+    {
+      "date": "2022-10-13",
+      "yield": "-1.66",
+      "indexYield": "-1.37",
+      "fundTypeYield": "-0.34",
+      "benchQuote": "-0.10"
+    },
+    {
+      "date": "2022-10-14",
+      "yield": "6.34",
+      "indexYield": "0.99",
+      "fundTypeYield": "1.91",
+      "benchQuote": "5.07"
+    },
+    {
+      "date": "2022-10-17",
+      "yield": "6.09",
+      "indexYield": "1.09",
+      "fundTypeYield": "2.00",
+      "benchQuote": "5.64"
+    },
+    {
+      "date": "2022-10-18",
+      "yield": "7.60",
+      "indexYield": "0.88",
+      "fundTypeYield": "2.54",
+      "benchQuote": "6.81"
+    },
+    {
+      "date": "2022-10-19",
+      "yield": "5.79",
+      "indexYield": "-0.75",
+      "fundTypeYield": "1.38",
+      "benchQuote": "5.38"
+    },
+    {
+      "date": "2022-10-20",
+      "yield": "5.48",
+      "indexYield": "-1.31",
+      "fundTypeYield": "0.65",
+      "benchQuote": "5.62"
+    },
+    {
+      "date": "2022-10-21",
+      "yield": "4.92",
+      "indexYield": "-1.63",
+      "fundTypeYield": "0.87",
+      "benchQuote": "5.57"
+    },
+    {
+      "date": "2022-10-24",
+      "yield": "1.39",
+      "indexYield": "-4.51",
+      "fundTypeYield": "-0.75",
+      "benchQuote": "3.28"
+    },
+    {
+      "date": "2022-10-25",
+      "yield": "-0.74",
+      "indexYield": "-4.66",
+      "fundTypeYield": "-0.69",
+      "benchQuote": "1.97"
+    },
+    {
+      "date": "2022-10-26",
+      "yield": "4.71",
+      "indexYield": "-3.89",
+      "fundTypeYield": "0.64",
+      "benchQuote": "5.37"
+    },
+    {
+      "date": "2022-10-27",
+      "yield": "2.50",
+      "indexYield": "-4.57",
+      "fundTypeYield": "-0.59",
+      "benchQuote": "4.85"
+    },
+    {
+      "date": "2022-10-28",
+      "yield": "0.52",
+      "indexYield": "-6.93",
+      "fundTypeYield": "-2.81",
+      "benchQuote": "3.44"
+    },
+    {
+      "date": "2022-10-31",
+      "yield": "-0.91",
+      "indexYield": "-7.78",
+      "fundTypeYield": "-3.04",
+      "benchQuote": "3.10"
+    },
+    {
+      "date": "2022-11-01",
+      "yield": "2.77",
+      "indexYield": "-4.49",
+      "fundTypeYield": "-0.66",
+      "benchQuote": "5.50"
+    },
+    {
+      "date": "2022-11-02",
+      "yield": "3.97",
+      "indexYield": "-3.34",
+      "fundTypeYield": "0.65",
+      "benchQuote": "6.50"
+    },
+    {
+      "date": "2022-11-03",
+      "yield": "4.32",
+      "indexYield": "-4.13",
+      "fundTypeYield": "0.86",
+      "benchQuote": "5.99"
+    },
+    {
+      "date": "2022-11-04",
+      "yield": "6.40",
+      "indexYield": "-0.99",
+      "fundTypeYield": "3.40",
+      "benchQuote": "7.53"
+    },
+    {
+      "date": "2022-11-07",
+      "yield": "6.54",
+      "indexYield": "-0.78",
+      "fundTypeYield": "3.16",
+      "benchQuote": "7.39"
+    },
+    {
+      "date": "2022-11-08",
+      "yield": "4.94",
+      "indexYield": "-1.46",
+      "fundTypeYield": "2.55",
+      "benchQuote": "6.48"
+    },
+    {
+      "date": "2022-11-09",
+      "yield": "4.46",
+      "indexYield": "-2.38",
+      "fundTypeYield": "1.80",
+      "benchQuote": "6.60"
+    },
+    {
+      "date": "2022-11-10",
+      "yield": "3.09",
+      "indexYield": "-3.13",
+      "fundTypeYield": "0.50",
+      "benchQuote": "6.12"
+    },
+    {
+      "date": "2022-11-11",
+      "yield": "5.03",
+      "indexYield": "-0.43",
+      "fundTypeYield": "1.99",
+      "benchQuote": "6.01"
+    },
+    {
+      "date": "2022-11-14",
+      "yield": "7.13",
+      "indexYield": "-0.29",
+      "fundTypeYield": "1.24",
+      "benchQuote": "8.05"
+    },
+    {
+      "date": "2022-11-15",
+      "yield": "7.75",
+      "indexYield": "1.61",
+      "fundTypeYield": "3.26",
+      "benchQuote": "8.47"
+    },
+    {
+      "date": "2022-11-16",
+      "yield": "8.06",
+      "indexYield": "0.78",
+      "fundTypeYield": "2.34",
+      "benchQuote": "8.36"
+    },
+    {
+      "date": "2022-11-17",
+      "yield": "7.54",
+      "indexYield": "0.36",
+      "fundTypeYield": "2.09",
+      "benchQuote": "8.58"
+    },
+    {
+      "date": "2022-11-18",
+      "yield": "7.67",
+      "indexYield": "-0.09",
+      "fundTypeYield": "1.65",
+      "benchQuote": "9.63"
+    },
+    {
+      "date": "2022-11-21",
+      "yield": "6.42",
+      "indexYield": "-0.94",
+      "fundTypeYield": "1.54",
+      "benchQuote": "9.27"
+    },
+    {
+      "date": "2022-11-22",
+      "yield": "3.65",
+      "indexYield": "-0.93",
+      "fundTypeYield": "0.27",
+      "benchQuote": "7.29"
+    },
+    {
+      "date": "2022-11-23",
+      "yield": "1.94",
+      "indexYield": "-0.82",
+      "fundTypeYield": "0.32",
+      "benchQuote": "5.89"
+    },
+    {
+      "date": "2022-11-24",
+      "yield": "2.59",
+      "indexYield": "-1.26",
+      "fundTypeYield": "0.41",
+      "benchQuote": "6.57"
+    },
+    {
+      "date": "2022-11-25",
+      "yield": "1.95",
+      "indexYield": "-0.77",
+      "fundTypeYield": "-0.57",
+      "benchQuote": "6.06"
+    },
+    {
+      "date": "2022-11-28",
+      "yield": "0.39",
+      "indexYield": "-1.88",
+      "fundTypeYield": "-0.94",
+      "benchQuote": "5.27"
+    },
+    {
+      "date": "2022-11-29",
+      "yield": "2.37",
+      "indexYield": "1.14",
+      "fundTypeYield": "0.54",
+      "benchQuote": "7.04"
+    },
+    {
+      "date": "2022-11-30",
+      "yield": "1.78",
+      "indexYield": "1.27",
+      "fundTypeYield": "0.74",
+      "benchQuote": "6.58"
+    },
+    {
+      "date": "2022-12-01",
+      "yield": "3.96",
+      "indexYield": "2.36",
+      "fundTypeYield": "1.80",
+      "benchQuote": "7.16"
+    },
+    {
+      "date": "2022-12-02",
+      "yield": "2.88",
+      "indexYield": "1.74",
+      "fundTypeYield": "1.57",
+      "benchQuote": "6.79"
+    },
+    {
+      "date": "2022-12-05",
+      "yield": "3.56",
+      "indexYield": "3.73",
+      "fundTypeYield": "1.96",
+      "benchQuote": "6.95"
+    },
+    {
+      "date": "2022-12-06",
+      "yield": "3.56",
+      "indexYield": "4.29",
+      "fundTypeYield": "2.14",
+      "benchQuote": "6.46"
+    },
+    {
+      "date": "2022-12-07",
+      "yield": "3.86",
+      "indexYield": "4.04",
+      "fundTypeYield": "1.83",
+      "benchQuote": "7.03"
+    },
+    {
+      "date": "2022-12-08",
+      "yield": "3.46",
+      "indexYield": "4.06",
+      "fundTypeYield": "1.98",
+      "benchQuote": "7.06"
+    },
+    {
+      "date": "2022-12-09",
+      "yield": "3.07",
+      "indexYield": "5.08",
+      "fundTypeYield": "2.54",
+      "benchQuote": "7.31"
+    },
+    {
+      "date": "2022-12-12",
+      "yield": "3.54",
+      "indexYield": "3.90",
+      "fundTypeYield": "1.92",
+      "benchQuote": "8.04"
+    },
+    {
+      "date": "2022-12-13",
+      "yield": "2.43",
+      "indexYield": "3.70",
+      "fundTypeYield": "1.07",
+      "benchQuote": "7.45"
+    },
+    {
+      "date": "2022-12-14",
+      "yield": "2.64",
+      "indexYield": "3.94",
+      "fundTypeYield": "1.06",
+      "benchQuote": "6.83"
+    },
+    {
+      "date": "2022-12-15",
+      "yield": "2.41",
+      "indexYield": "3.87",
+      "fundTypeYield": "1.19",
+      "benchQuote": "6.49"
+    },
+    {
+      "date": "2022-12-16",
+      "yield": "2.53",
+      "indexYield": "3.92",
+      "fundTypeYield": "0.42",
+      "benchQuote": "7.06"
+    },
+    {
+      "date": "2022-12-19",
+      "yield": "0.23",
+      "indexYield": "2.32",
+      "fundTypeYield": "-0.74",
+      "benchQuote": "4.73"
+    },
+    {
+      "date": "2022-12-20",
+      "yield": "-1.56",
+      "indexYield": "0.63",
+      "fundTypeYield": "-1.88",
+      "benchQuote": "3.58"
+    },
+    {
+      "date": "2022-12-21",
+      "yield": "-1.52",
+      "indexYield": "0.67",
+      "fundTypeYield": "-2.24",
+      "benchQuote": "3.56"
+    },
+    {
+      "date": "2022-12-22",
+      "yield": "0.31",
+      "indexYield": "0.82",
+      "fundTypeYield": "-2.46",
+      "benchQuote": "3.93"
+    },
+    {
+      "date": "2022-12-23",
+      "yield": "1.29",
+      "indexYield": "0.61",
+      "fundTypeYield": "-2.94",
+      "benchQuote": "4.74"
+    },
+    {
+      "date": "2022-12-26",
+      "yield": "1.37",
+      "indexYield": "1.01",
+      "fundTypeYield": "-1.33",
+      "benchQuote": "4.81"
+    },
+    {
+      "date": "2022-12-27",
+      "yield": "3.76",
+      "indexYield": "2.18",
+      "fundTypeYield": "-0.20",
+      "benchQuote": "5.10"
+    },
+    {
+      "date": "2022-12-28",
+      "yield": "4.01",
+      "indexYield": "1.74",
+      "fundTypeYield": "-0.55",
+      "benchQuote": "5.44"
+    },
+    {
+      "date": "2022-12-29",
+      "yield": "5.90",
+      "indexYield": "1.36",
+      "fundTypeYield": "-0.46",
+      "benchQuote": "6.50"
+    },
+    {
+      "date": "2022-12-30",
+      "yield": "5.95",
+      "indexYield": "1.75",
+      "fundTypeYield": "-0.35",
+      "benchQuote": "6.48"
+    },
+    {
+      "date": "2022-12-31",
+      "yield": "5.95",
+      "indexYield": "0.0",
+      "fundTypeYield": "0.0",
+      "benchQuote": "0.0"
+    },
+    {
+      "date": "2023-01-03",
+      "yield": "5.49",
+      "indexYield": "2.18",
+      "fundTypeYield": "0.95",
+      "benchQuote": "6.84"
+    },
+    {
+      "date": "2023-01-04",
+      "yield": "7.02",
+      "indexYield": "2.31",
+      "fundTypeYield": "0.88",
+      "benchQuote": "7.33"
+    },
+    {
+      "date": "2023-01-05",
+      "yield": "9.52",
+      "indexYield": "4.30",
+      "fundTypeYield": "2.49",
+      "benchQuote": "8.98"
+    },
+    {
+      "date": "2023-01-06",
+      "yield": "8.06",
+      "indexYield": "4.63",
+      "fundTypeYield": "2.88",
+      "benchQuote": "8.35"
+    },
+    {
+      "date": "2023-01-09",
+      "yield": "8.65",
+      "indexYield": "5.47",
+      "fundTypeYield": "3.42",
+      "benchQuote": "8.91"
+    },
+    {
+      "date": "2023-01-10",
+      "yield": "10.05",
+      "indexYield": "5.59",
+      "fundTypeYield": "3.68",
+      "benchQuote": "9.74"
+    },
+    {
+      "date": "2023-01-11",
+      "yield": "9.72",
+      "indexYield": "5.39",
+      "fundTypeYield": "3.02",
+      "benchQuote": "9.33"
+    },
+    {
+      "date": "2023-01-12",
+      "yield": "9.77",
+      "indexYield": "5.60",
+      "fundTypeYield": "2.98",
+      "benchQuote": "9.11"
+    },
+    {
+      "date": "2023-01-13",
+      "yield": "12.72",
+      "indexYield": "7.08",
+      "fundTypeYield": "3.69",
+      "benchQuote": "10.89"
+    },
+    {
+      "date": "2023-01-16",
+      "yield": "16.49",
+      "indexYield": "8.75",
+      "fundTypeYield": "4.62",
+      "benchQuote": "13.08"
+    },
+    {
+      "date": "2023-01-17",
+      "yield": "15.51",
+      "indexYield": "8.74",
+      "fundTypeYield": "4.69",
+      "benchQuote": "12.37"
+    },
+    {
+      "date": "2023-01-18",
+      "yield": "14.37",
+      "indexYield": "8.55",
+      "fundTypeYield": "4.68",
+      "benchQuote": "11.82"
+    },
+    {
+      "date": "2023-01-19",
+      "yield": "17.32",
+      "indexYield": "9.23",
+      "fundTypeYield": "5.36",
+      "benchQuote": "13.22"
+    },
+    {
+      "date": "2023-01-20",
+      "yield": "16.80",
+      "indexYield": "9.90",
+      "fundTypeYield": "5.95",
+      "benchQuote": "12.96"
+    },
+    {
+      "date": "2023-01-30",
+      "yield": "15.73",
+      "indexYield": "10.42",
+      "fundTypeYield": "6.45",
+      "benchQuote": "12.41"
+    },
+    {
+      "date": "2023-01-31",
+      "yield": "12.49",
+      "indexYield": "9.25",
+      "fundTypeYield": "5.67",
+      "benchQuote": "10.91"
+    },
+    {
+      "date": "2023-02-01",
+      "yield": "13.46",
+      "indexYield": "10.28",
+      "fundTypeYield": "6.72",
+      "benchQuote": "11.54"
+    },
+    {
+      "date": "2023-02-02",
+      "yield": "14.35",
+      "indexYield": "9.89",
+      "fundTypeYield": "6.81",
+      "benchQuote": "12.04"
+    },
+    {
+      "date": "2023-02-03",
+      "yield": "13.24",
+      "indexYield": "8.85",
+      "fundTypeYield": "6.30",
+      "benchQuote": "11.41"
+    },
+    {
+      "date": "2023-02-06",
+      "yield": "10.82",
+      "indexYield": "7.41",
+      "fundTypeYield": "5.11",
+      "benchQuote": "10.43"
+    },
+    {
+      "date": "2023-02-07",
+      "yield": "10.41",
+      "indexYield": "7.60",
+      "fundTypeYield": "5.06",
+      "benchQuote": "10.05"
+    },
+    {
+      "date": "2023-02-08",
+      "yield": "10.51",
+      "indexYield": "7.13",
+      "fundTypeYield": "4.55",
+      "benchQuote": "10.24"
+    },
+    {
+      "date": "2023-02-09",
+      "yield": "11.66",
+      "indexYield": "8.57",
+      "fundTypeYield": "6.11",
+      "benchQuote": "11.01"
+    },
+    {
+      "date": "2023-02-10",
+      "yield": "11.43",
+      "indexYield": "7.92",
+      "fundTypeYield": "5.26",
+      "benchQuote": "10.92"
+    },
+    {
+      "date": "2023-02-13",
+      "yield": "11.82",
+      "indexYield": "8.90",
+      "fundTypeYield": "6.36",
+      "benchQuote": "11.48"
+    },
+    {
+      "date": "2023-02-14",
+      "yield": "12.09",
+      "indexYield": "8.95",
+      "fundTypeYield": "6.19",
+      "benchQuote": "11.71"
+    },
+    {
+      "date": "2023-02-15",
+      "yield": "10.04",
+      "indexYield": "8.38",
+      "fundTypeYield": "5.78",
+      "benchQuote": "10.77"
+    },
+    {
+      "date": "2023-02-16",
+      "yield": "9.31",
+      "indexYield": "7.59",
+      "fundTypeYield": "4.60",
+      "benchQuote": "10.09"
+    },
+    {
+      "date": "2023-02-17",
+      "yield": "8.72",
+      "indexYield": "6.03",
+      "fundTypeYield": "3.27",
+      "benchQuote": "10.12"
+    },
+    {
+      "date": "2023-02-20",
+      "yield": "10.13",
+      "indexYield": "8.64",
+      "fundTypeYield": "4.80",
+      "benchQuote": "11.04"
+    },
+    {
+      "date": "2023-02-21",
+      "yield": "9.35",
+      "indexYield": "8.92",
+      "fundTypeYield": "4.64",
+      "benchQuote": "10.74"
+    },
+    {
+      "date": "2023-02-22",
+      "yield": "8.27",
+      "indexYield": "7.94",
+      "fundTypeYield": "4.31",
+      "benchQuote": "10.28"
+    },
+    {
+      "date": "2023-02-23",
+      "yield": "8.11",
+      "indexYield": "7.85",
+      "fundTypeYield": "4.30",
+      "benchQuote": "9.84"
+    },
+    {
+      "date": "2023-02-24",
+      "yield": "6.92",
+      "indexYield": "6.73",
+      "fundTypeYield": "3.51",
+      "benchQuote": "9.26"
+    },
+    {
+      "date": "2023-02-27",
+      "yield": "5.87",
+      "indexYield": "6.28",
+      "fundTypeYield": "3.24",
+      "benchQuote": "8.72"
+    },
+    {
+      "date": "2023-02-28",
+      "yield": "7.00",
+      "indexYield": "6.95",
+      "fundTypeYield": "3.65",
+      "benchQuote": "9.61"
+    },
+    {
+      "date": "2023-03-01",
+      "yield": "6.76",
+      "indexYield": "8.46",
+      "fundTypeYield": "4.54",
+      "benchQuote": "9.62"
+    },
+    {
+      "date": "2023-03-02",
+      "yield": "5.76",
+      "indexYield": "8.22",
+      "fundTypeYield": "3.83",
+      "benchQuote": "8.91"
+    },
+    {
+      "date": "2023-03-03",
+      "yield": "5.74",
+      "indexYield": "8.56",
+      "fundTypeYield": "3.86",
+      "benchQuote": "8.93"
+    },
+    {
+      "date": "2023-03-06",
+      "yield": "6.05",
+      "indexYield": "7.99",
+      "fundTypeYield": "4.26",
+      "benchQuote": "9.16"
+    },
+    {
+      "date": "2023-03-07",
+      "yield": "4.61",
+      "indexYield": "6.41",
+      "fundTypeYield": "2.56",
+      "benchQuote": "7.84"
+    },
+    {
+      "date": "2023-03-08",
+      "yield": "4.02",
+      "indexYield": "6.02",
+      "fundTypeYield": "2.37",
+      "benchQuote": "7.64"
+    },
+    {
+      "date": "2023-03-09",
+      "yield": "3.70",
+      "indexYield": "5.65",
+      "fundTypeYield": "2.20",
+      "benchQuote": "7.61"
+    },
+    {
+      "date": "2023-03-10",
+      "yield": "4.17",
+      "indexYield": "4.26",
+      "fundTypeYield": "0.99",
+      "benchQuote": "7.63"
+    },
+    {
+      "date": "2023-03-13",
+      "yield": "3.99",
+      "indexYield": "5.36",
+      "fundTypeYield": "1.79",
+      "benchQuote": "7.61"
+    },
+    {
+      "date": "2023-03-14",
+      "yield": "3.96",
+      "indexYield": "4.73",
+      "fundTypeYield": "0.95",
+      "benchQuote": "7.36"
+    },
+    {
+      "date": "2023-03-15",
+      "yield": "3.46",
+      "indexYield": "4.78",
+      "fundTypeYield": "0.83",
+      "benchQuote": "7.38"
+    },
+    {
+      "date": "2023-03-16",
+      "yield": "2.63",
+      "indexYield": "3.53",
+      "fundTypeYield": "-0.54",
+      "benchQuote": "7.17"
+    },
+    {
+      "date": "2023-03-17",
+      "yield": "0.77",
+      "indexYield": "4.05",
+      "fundTypeYield": "-0.28",
+      "benchQuote": "5.92"
+    },
+    {
+      "date": "2023-03-20",
+      "yield": "-0.44",
+      "indexYield": "3.53",
+      "fundTypeYield": "-0.86",
+      "benchQuote": "4.98"
+    },
+    {
+      "date": "2023-03-21",
+      "yield": "2.89",
+      "indexYield": "4.66",
+      "fundTypeYield": "0.46",
+      "benchQuote": "6.95"
+    },
+    {
+      "date": "2023-03-22",
+      "yield": "2.72",
+      "indexYield": "5.11",
+      "fundTypeYield": "0.66",
+      "benchQuote": "7.15"
+    },
+    {
+      "date": "2023-03-23",
+      "yield": "2.66",
+      "indexYield": "6.16",
+      "fundTypeYield": "1.34",
+      "benchQuote": "7.08"
+    },
+    {
+      "date": "2023-03-24",
+      "yield": "1.49",
+      "indexYield": "5.84",
+      "fundTypeYield": "1.16",
+      "benchQuote": "6.37"
+    },
+    {
+      "date": "2023-03-27",
+      "yield": "2.73",
+      "indexYield": "5.46",
+      "fundTypeYield": "1.10",
+      "benchQuote": "7.15"
+    },
+    {
+      "date": "2023-03-28",
+      "yield": "3.27",
+      "indexYield": "5.12",
+      "fundTypeYield": "0.65",
+      "benchQuote": "7.45"
+    },
+    {
+      "date": "2023-03-29",
+      "yield": "2.33",
+      "indexYield": "5.29",
+      "fundTypeYield": "1.01",
+      "benchQuote": "6.92"
+    },
+    {
+      "date": "2023-03-30",
+      "yield": "2.90",
+      "indexYield": "6.14",
+      "fundTypeYield": "1.45",
+      "benchQuote": "7.22"
+    },
+    {
+      "date": "2023-03-31",
+      "yield": "1.55",
+      "indexYield": "6.47",
+      "fundTypeYield": "2.14",
+      "benchQuote": "7.08"
+    }
+  ],
+  "total": {
+    "totalYield": "1.55",
+    "totalIndexYield": "6.47",
+    "totalFundTypeYield": "2.14",
+    "totalBenchQuote": "7.08"
+  },
+  "success": true,
+  "totalCount": 121,
+  "name": "中欧医疗健康混合C"
+}

@@ -1,0 +1,181 @@
+{
+  "data": [
+    {
+      "date": "2023-02-28",
+      "yield": "0.00",
+      "indexYield": "0.00",
+      "fundTypeYield": "0.00",
+      "benchQuote": "0.00"
+    },
+    {
+      "date": "2023-03-01",
+      "yield": "-0.23",
+      "indexYield": "1.41",
+      "fundTypeYield": "0.86",
+      "benchQuote": "0.01"
+    },
+    {
+      "date": "2023-03-02",
+      "yield": "-1.17",
+      "indexYield": "1.19",
+      "fundTypeYield": "0.17",
+      "benchQuote": "-0.64"
+    },
+    {
+      "date": "2023-03-03",
+      "yield": "-1.18",
+      "indexYield": "1.50",
+      "fundTypeYield": "0.20",
+      "benchQuote": "-0.62"
+    },
+    {
+      "date": "2023-03-06",
+      "yield": "-0.89",
+      "indexYield": "0.97",
+      "fundTypeYield": "0.58",
+      "benchQuote": "-0.41"
+    },
+    {
+      "date": "2023-03-07",
+      "yield": "-2.23",
+      "indexYield": "-0.51",
+      "fundTypeYield": "-1.06",
+      "benchQuote": "-1.61"
+    },
+    {
+      "date": "2023-03-08",
+      "yield": "-2.79",
+      "indexYield": "-0.87",
+      "fundTypeYield": "-1.24",
+      "benchQuote": "-1.80"
+    },
+    {
+      "date": "2023-03-09",
+      "yield": "-3.09",
+      "indexYield": "-1.22",
+      "fundTypeYield": "-1.41",
+      "benchQuote": "-1.82"
+    },
+    {
+      "date": "2023-03-10",
+      "yield": "-2.65",
+      "indexYield": "-2.51",
+      "fundTypeYield": "-2.57",
+      "benchQuote": "-1.81"
+    },
+    {
+      "date": "2023-03-13",
+      "yield": "-2.82",
+      "indexYield": "-1.49",
+      "fundTypeYield": "-1.80",
+      "benchQuote": "-1.83"
+    },
+    {
+      "date": "2023-03-14",
+      "yield": "-2.84",
+      "indexYield": "-2.08",
+      "fundTypeYield": "-2.61",
+      "benchQuote": "-2.05"
+    },
+    {
+      "date": "2023-03-15",
+      "yield": "-3.31",
+      "indexYield": "-2.03",
+      "fundTypeYield": "-2.73",
+      "benchQuote": "-2.04"
+    },
+    {
+      "date": "2023-03-16",
+      "yield": "-4.09",
+      "indexYield": "-3.20",
+      "fundTypeYield": "-4.05",
+      "benchQuote": "-2.23"
+    },
+    {
+      "date": "2023-03-17",
+      "yield": "-5.82",
+      "indexYield": "-2.72",
+      "fundTypeYield": "-3.79",
+      "benchQuote": "-3.37"
+    },
+    {
+      "date": "2023-03-20",
+      "yield": "-6.96",
+      "indexYield": "-3.20",
+      "fundTypeYield": "-4.36",
+      "benchQuote": "-4.22"
+    },
+    {
+      "date": "2023-03-21",
+      "yield": "-3.84",
+      "indexYield": "-2.14",
+      "fundTypeYield": "-3.09",
+      "benchQuote": "-2.43"
+    },
+    {
+      "date": "2023-03-22",
+      "yield": "-4.00",
+      "indexYield": "-1.72",
+      "fundTypeYield": "-2.89",
+      "benchQuote": "-2.24"
+    },
+    {
+      "date": "2023-03-23",
+      "yield": "-4.06",
+      "indexYield": "-0.75",
+      "fundTypeYield": "-2.23",
+      "benchQuote": "-2.31"
+    },
+    {
+      "date": "2023-03-24",
+      "yield": "-5.15",
+      "indexYield": "-1.04",
+      "fundTypeYield": "-2.41",
+      "benchQuote": "-2.96"
+    },
+    {
+      "date": "2023-03-27",
+      "yield": "-3.99",
+      "indexYield": "-1.40",
+      "fundTypeYield": "-2.46",
+      "benchQuote": "-2.24"
+    },
+    {
+      "date": "2023-03-28",
+      "yield": "-3.49",
+      "indexYield": "-1.72",
+      "fundTypeYield": "-2.90",
+      "benchQuote": "-1.98"
+    },
+    {
+      "date": "2023-03-29",
+      "yield": "-4.37",
+      "indexYield": "-1.56",
+      "fundTypeYield": "-2.55",
+      "benchQuote": "-2.45"
+    },
+    {
+      "date": "2023-03-30",
+      "yield": "-3.84",
+      "indexYield": "-0.76",
+      "fundTypeYield": "-2.13",
+      "benchQuote": "-2.18"
+    },
+    {
+      "date": "2023-03-31",
+      "yield": "-5.10",
+      "indexYield": "-0.46",
+      "fundTypeYield": "-1.46",
+      "benchQuote": "-2.31"
+    }
+  ],
+  "total": {
+    "totalYield": "-5.10",
+    "totalIndexYield": "-0.46",
+    "totalFundTypeYield": "-1.46",
+    "totalBenchQuote": "-2.31"
+  },
+  "success": true,
+  "totalCount": 24,
+  "name": "中欧医疗健康混合C"
+}

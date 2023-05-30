@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AntFundChart</string>
+
+    <string name="yield_line">本基金</string>
+    <string name="fund_type_yield">同类平均</string>
+    <string name="index_yield_line">沪深300</string>
+
+    <string name="latest_one_month">近1月</string>
+    <string name="latest_three_months">近3月</string>
+    <string name="latest_six_months">近6月</string>
+    <string name="latest_one_year">近1年</string>
+    <string name="latest_three_years">近3年</string>
+</resources>

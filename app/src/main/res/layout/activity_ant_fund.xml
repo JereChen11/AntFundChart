@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AntFundActivity">
+
+    <View
+        android:layout_width="15dp"
+        android:layout_height="2dp"
+        android:layout_marginEnd="5dp"
+        android:background="@drawable/shape_yield_start_bg"
+        app:layout_constraintBottom_toBottomOf="@id/yieldTv"
+        app:layout_constraintEnd_toStartOf="@id/yieldTv"
+        app:layout_constraintTop_toTopOf="@id/yieldTv" />
+
+    <TextView
+        android:id="@+id/yieldTv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="60dp"
+        android:layout_marginTop="50dp"
+        android:text="@string/yield_line"
+        android:textColor="@color/black"
+        android:textSize="13sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/totalYieldTv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:text="-15.10%"
+        android:textColor="@color/fund_total_rate_down_text_color"
+        android:textSize="12sp"
+        app:layout_constraintStart_toStartOf="@id/yieldTv"
+        app:layout_constraintTop_toBottomOf="@id/yieldTv" />
+
+    <View
+        android:layout_width="15dp"
+        android:layout_height="2dp"
+        android:layout_marginEnd="5dp"
+        android:background="@drawable/shape_fund_type_yield_start_bg"
+        app:layout_constraintBottom_toBottomOf="@id/fundTypeTv"
+        app:layout_constraintEnd_toStartOf="@id/fundTypeTv"
+        app:layout_constraintTop_toTopOf="@id/fundTypeTv" />
+
+    <TextView
+        android:id="@+id/fundTypeTv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableEnd="@drawable/svg_tips_icon"
+        android:drawablePadding="3dp"
+        android:text="@string/fund_type_yield"
+        android:textColor="@color/black"
+        android:textSize="13sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.55"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@id/yieldTv" />
+
+    <TextView
+        android:id="@+id/totalFundTypeTv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:text="-15.10%"
+        android:textColor="@color/fund_total_rate_down_text_color"
+        android:textSize="12sp"
+        app:layout_constraintStart_toStartOf="@id/fundTypeTv"
+        app:layout_constraintTop_toBottomOf="@id/fundTypeTv" />
+
+    <View
+        android:layout_width="15dp"
+        android:layout_height="2dp"
+        android:layout_marginEnd="5dp"
+        android:background="@drawable/shape_index_yield_start_bg"
+        app:layout_constraintBottom_toBottomOf="@id/indexYieldTv"
+        app:layout_constraintEnd_toStartOf="@id/indexYieldTv"
+        app:layout_constraintTop_toTopOf="@id/indexYieldTv" />
+
+    <TextView
+        android:id="@+id/indexYieldTv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="20dp"
+        android:drawableEnd="@drawable/svg_arrow_down_icon"
+        android:drawablePadding="3dp"
+        android:text="@string/index_yield_line"
+        android:textColor="@color/black"
+        android:textSize="13sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@id/fundTypeTv" />
+
+    <TextView
+        android:id="@+id/totalIndexYieldTv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:text="-15.10%"
+        android:textColor="@color/fund_total_rate_raise_text_color"
+        android:textSize="12sp"
+        app:layout_constraintStart_toStartOf="@id/indexYieldTv"
+        app:layout_constraintTop_toBottomOf="@id/indexYieldTv" />
+
+
+    <com.jc.antfundchart.fund.FundsChart
+        android:id="@+id/returnOnFoundsChart"
+        android:layout_width="match_parent"
+        android:layout_height="220dp"
+        android:layout_marginTop="30dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/fundTypeTv" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="10dp"
+        android:orientation="horizontal"
+        app:layout_constraintTop_toBottomOf="@id/returnOnFoundsChart">
+
+        <TextView
+            android:id="@+id/latestOneMonth"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/selector_fund_date_rate_text_bg"
+            android:gravity="center"
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp"
+            android:text="@string/latest_one_month"
+            android:textColor="@color/selector_fund_date_range_text_color"
+            android:textSize="12sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="@id/fundTypeTv" />
+
+        <TextView
+            android:id="@+id/latestThreeMonths"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/selector_fund_date_rate_text_bg"
+            android:gravity="center"
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp"
+            android:text="@string/latest_three_months"
+            android:textColor="@color/selector_fund_date_range_text_color"
+            android:textSize="12sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="@id/fundTypeTv" />
+
+
+        <TextView
+            android:id="@+id/latestSixMonths"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/selector_fund_date_rate_text_bg"
+            android:gravity="center"
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp"
+            android:text="@string/latest_six_months"
+            android:textColor="@color/selector_fund_date_range_text_color"
+            android:textSize="12sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="@id/fundTypeTv" />
+
+        <TextView
+            android:id="@+id/latestOneYear"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/selector_fund_date_rate_text_bg"
+            android:gravity="center"
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp"
+            android:text="@string/latest_one_year"
+            android:textColor="@color/selector_fund_date_range_text_color"
+            android:textSize="12sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="@id/fundTypeTv" />
+
+        <TextView
+            android:id="@+id/latestThreeYears"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/selector_fund_date_rate_text_bg"
+            android:gravity="center"
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp"
+            android:text="@string/latest_three_years"
+            android:textColor="@color/selector_fund_date_range_text_color"
+            android:textSize="12sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="@id/fundTypeTv" />
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
