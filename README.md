@@ -2,7 +2,7 @@
 通过自定义View来复刻蚂蚁基金业绩走势图。
 
 # 成果展示
-<img src="https://github.com/JereChen11/AntFundChart/raw/main/images/fund_chart_result.gif">
+<img src="https://github.com/JereChen11/AntFundChart/raw/main/image/fund_chart_result.gif" width="250">
 
 # 具体实现
 
@@ -35,7 +35,7 @@
 
 我们可以先确认好核心区域，也就是绘制走势线的区域，即`rateLineDrawable.bounds`。（这个核心区域，下文会用 `lineChartRect` 表示。）。确认好了核心区域后，我们就可以利用它来确认`fundGridDrawable.bounds`、`fundLabelDrawable.bounds`。
 
-<img src="https://github.com/JereChen11/AntFundChart/raw/main/images/rect-distribution.png">
+<img src="https://github.com/JereChen11/AntFundChart/raw/main/image/rect-distribution.png">
 
 有了区域分布图以后，我们就可以通过代码来实现区域分配了。
 
@@ -266,5 +266,5 @@ private fun drawLabelTag(canvas: Canvas) {
 
 > 其实分享的最大目的正是等待着有人指出我的错误，如果你发现哪里有错误，请毫无保留的指出即可，虚心请教。
 >
-> 另外，如果你觉得项目不错，对你有所帮助，请给我点个`star`，就当鼓励，谢谢～Peace！
+> 另外，如果你觉得项目不错，对你有所帮助，请给我点个`star`，就当鼓励，谢谢～Peace✌️！
 
