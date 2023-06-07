@@ -1,5 +1,5 @@
 # 前言
-通过自定义View来复刻蚂蚁基金业绩走势图。
+本项目来自于某天突发奇想，通过自定义View来复刻蚂蚁基金业绩走势图，分享给大家。
 
 # 成果展示
 <img src="https://github.com/JereChen11/AntFundChart/raw/main/images/fund_chart_result.gif">
@@ -114,7 +114,8 @@ private fun drawDateTimeText(canvas: Canvas) {
         lineChartRect.bottom.toFloat() + paddingBottom / 2,
         bottomLinePaint
     )
-		...省略代码...
+	
+    //...省略代码...
 
     //绘制横线
     canvas.drawLine(
@@ -181,7 +182,7 @@ private fun drawRateTextAndLines(canvas: Canvas) {
 
         yPx = lineChartRect.top + (maxRate - it).div(yPxSpec).toFloat()
 
-				//绘制收益率虚线
+		//绘制收益率虚线
         canvas.drawLine(
             lineChartRect.left.toFloat(),
             yPx,
@@ -190,7 +191,7 @@ private fun drawRateTextAndLines(canvas: Canvas) {
             rateLinePaint
         )
 
-				//绘制收益率百分比文字
+		//绘制收益率百分比文字
         textPaint.textAlign = Paint.Align.RIGHT
         canvas.drawText(
             "${it.toStringAsFixed(2)}%",
